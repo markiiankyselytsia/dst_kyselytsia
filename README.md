@@ -1,1 +1,1 @@
-# dst_kyselytsia
+Run `>>>Lab1.py` , type your `name` and `date of your birthday`
